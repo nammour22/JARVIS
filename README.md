@@ -101,3 +101,5 @@ Music/YouTube playback via yt-dlp + mpv
 Alarm and timer system
 WiFi hotspot fallback for connecting to new networks
 Ultrasonic proximity integration into main pipeline
+<img width="1134" height="1493" alt="jarvis from the front, off" src="https://github.com/user-attachments/assets/6db60850-3a59-48cf-bdfe-3824c274a063" />
+
